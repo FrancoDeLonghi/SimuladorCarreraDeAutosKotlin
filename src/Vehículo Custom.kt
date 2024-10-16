@@ -1,0 +1,2 @@
+class `Vehículo Custom` {
+}
