@@ -1,2 +1,0 @@
-class `Vehículo Custom` {
-}
