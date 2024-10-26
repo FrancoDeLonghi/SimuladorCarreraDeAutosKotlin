@@ -1,4 +1,4 @@
-abstract class Vehiculo(
+open abstract class Vehiculo(
     val nombre: String,
     val velocidadMaxima: Int,
     var combustible: Int,

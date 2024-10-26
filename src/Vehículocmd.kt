@@ -1,6 +1,3 @@
-<<<<<<<<< Temporary merge branch 1
-class `Vehículo Custom` {
-=========
 open class VehículoCmd(
     nombre: String,
     velocidadMaxima: Int,
@@ -19,5 +16,4 @@ open class VehículoCmd(
             velocidadactual
         }
     }
->>>>>>>>> Temporary merge branch 2
 }

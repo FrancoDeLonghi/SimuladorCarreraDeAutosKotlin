@@ -1,2 +1,2 @@
-open class Moto (Nombre: String, velocidadMaxima:Int, combustible:Int, aceleracion:Int, frenado:Int):
+open class Camión (Nombre: String, velocidadMaxima:Int, combustible:Int, aceleracion:Int, frenado:Int):
     VehículoCmd(nombre=Nombre, velocidadMaxima=velocidadMaxima, combustible=combustible, aceleracion=aceleracion,frenado=frenado) {}
